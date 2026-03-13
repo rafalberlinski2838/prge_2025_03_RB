@@ -1,0 +1,268 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Strona-1" id="02kPuFhNlHtmaYaCiNQj">
+    <mxGraphModel dx="2430" dy="2041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#00CC00);" value="" vertex="1">
+          <mxGeometry height="500" width="857" x="-130" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF8000);" value="" vertex="1">
+          <mxGeometry height="500" width="857" x="-120" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#99FFCC);" value="" vertex="1">
+          <mxGeometry height="500" width="857" x="-30" y="-550" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-5" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="317" y="265" />
+              <mxPoint x="317" y="125" />
+            </Array>
+            <mxPoint x="340" y="265" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-12" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="8090" vertex="1">
+          <mxGeometry relative="1" x="0.6262" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-7" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-13" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="10000" vertex="1">
+          <mxGeometry relative="1" x="0.2599" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NGNX&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(built of react app)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-15" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-17" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5432" vertex="1">
+          <mxGeometry relative="1" x="-0.5082" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GEOSERVER" vertex="1">
+          <mxGeometry height="90" width="120" x="354" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-14" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-16" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5432" vertex="1">
+          <mxGeometry relative="1" x="-0.3111" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FASTAPI" vertex="1">
+          <mxGeometry height="90" width="124" x="350" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POSTGIS" vertex="1">
+          <mxGeometry height="90" width="120" x="560" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-10" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-11" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="port9000" vertex="1">
+          <mxGeometry relative="1" x="0.052" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="-60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-19" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="910" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-20" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="FlLjddm5fBcrPZJ_Q3sh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-21" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="705" />
+            </Array>
+            <mxPoint x="300" y="845" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-22" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="8090" vertex="1">
+          <mxGeometry relative="1" x="0.6262" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-23" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-24" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="10000" vertex="1">
+          <mxGeometry relative="1" x="0.2599" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NGNX&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(built of react app)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="60" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-26" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-27" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5432" vertex="1">
+          <mxGeometry relative="1" x="-0.5082" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GEOSERVER" vertex="1">
+          <mxGeometry height="90" width="120" x="314" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-29" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-30" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5432" vertex="1">
+          <mxGeometry relative="1" x="-0.3111" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FASTAPI" vertex="1">
+          <mxGeometry height="90" width="124" x="310" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POSTGIS" vertex="1">
+          <mxGeometry height="90" width="120" x="520" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-33" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-34" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="port9000" vertex="1">
+          <mxGeometry relative="1" x="0.052" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-35" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="-100" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-36" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="FlLjddm5fBcrPZJ_Q3sh-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Geoportal tematyczny - srodoi&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 42);&quot;&gt;w&lt;/span&gt;sko produkcyjne&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%226%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3B%22%20target%3D%229%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22317%22%20y%3D%22265%22%2F%3E%3CmxPoint%20x%3D%22317%22%20y%3D%22125%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22340%22%20y%3D%22265%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20connectable%3D%220%22%20parent%3D%222%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%228090%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.6262%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%226%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2212%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20connectable%3D%220%22%20parent%3D%224%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%2210000%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.2599%22%20y%3D%22-4%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22NGNX%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B(built%20of%20react%20app)%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22160%22%20y%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%229%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2213%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20connectable%3D%220%22%20parent%3D%227%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%225432%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%22-0.5082%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22GEOSERVER%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22354%22%20y%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2212%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2213%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20connectable%3D%220%22%20parent%3D%2210%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%225432%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%22-0.3111%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22FASTAPI%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22124%22%20x%3D%22350%22%20y%3D%22340%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22POSTGIS%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22560%22%20y%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2216%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%226%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2215%22%20connectable%3D%220%22%20parent%3D%2214%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%22port9000%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.052%22%20y%3D%22-2%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2216%22%20parent%3D%221%22%20style%3D%22shape%3DumlActor%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3BoutlineConnect%3D0%3B%22%20value%3D%22Actor%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%2230%22%20x%3D%22-60%22%20y%3D%22180%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2217%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2213%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22730%22%20y%3D%22500%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Geoportal tematyczny - srodoi&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 42);&quot;&gt;w&lt;/span&gt;sko testo&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 42);&quot;&gt;w&lt;/span&gt;e&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%226%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3B%22%20target%3D%229%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22317%22%20y%3D%22265%22%2F%3E%3CmxPoint%20x%3D%22317%22%20y%3D%22125%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22340%22%20y%3D%22265%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20connectable%3D%220%22%20parent%3D%222%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%228090%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.6262%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%226%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2212%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20connectable%3D%220%22%20parent%3D%224%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%2210000%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.2599%22%20y%3D%22-4%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22NGNX%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B(built%20of%20react%20app)%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22160%22%20y%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%229%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2213%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20connectable%3D%220%22%20parent%3D%227%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%225432%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%22-0.5082%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22GEOSERVER%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22354%22%20y%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2212%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2213%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20connectable%3D%220%22%20parent%3D%2210%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%225432%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%22-0.3111%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22FASTAPI%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22124%22%20x%3D%22350%22%20y%3D%22340%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22POSTGIS%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22560%22%20y%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2216%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%226%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2215%22%20connectable%3D%220%22%20parent%3D%2214%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%22port9000%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.052%22%20y%3D%22-2%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2216%22%20parent%3D%221%22%20style%3D%22shape%3DumlActor%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3BoutlineConnect%3D0%3B%22%20value%3D%22Actor%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%2230%22%20x%3D%22-60%22%20y%3D%22180%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2217%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2213%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22730%22%20y%3D%22500%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="180" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-41" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NODE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(built of react app)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="40" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-42" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="397" y="-345" />
+              <mxPoint x="397" y="-405" />
+            </Array>
+            <mxPoint x="420" y="-265" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-43" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="8090" vertex="1">
+          <mxGeometry relative="1" x="0.6262" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-44" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-45" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="10000" vertex="1">
+          <mxGeometry relative="1" x="0.2599" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NGNX&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(built of react app)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="180" y="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-47" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-48" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5432" vertex="1">
+          <mxGeometry relative="1" x="-0.5082" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GEOSERVER" vertex="1">
+          <mxGeometry height="90" width="120" x="434" y="-450" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-50" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-51" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5432" vertex="1">
+          <mxGeometry relative="1" x="-0.3111" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FASTAPI" vertex="1">
+          <mxGeometry height="90" width="124" x="430" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-60" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FlLjddm5fBcrPZJ_Q3sh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POSTGIS" vertex="1">
+          <mxGeometry height="90" width="120" x="640" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-54" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-55" connectable="0" parent="FlLjddm5fBcrPZJ_Q3sh-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="port9000" vertex="1">
+          <mxGeometry relative="1" x="0.052" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-56" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Geoportal tematyczny - srodoi&lt;span style=&quot;color: rgb(230, 232, 240); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(34, 36, 42);&quot;&gt;w&lt;/span&gt;sko QA&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%226%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3B%22%20target%3D%229%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22317%22%20y%3D%22265%22%2F%3E%3CmxPoint%20x%3D%22317%22%20y%3D%22125%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22340%22%20y%3D%22265%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20connectable%3D%220%22%20parent%3D%222%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%228090%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.6262%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%226%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2212%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20connectable%3D%220%22%20parent%3D%224%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%2210000%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.2599%22%20y%3D%22-4%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22NGNX%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B(built%20of%20react%20app)%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22160%22%20y%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%229%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2213%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20connectable%3D%220%22%20parent%3D%227%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%225432%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%22-0.5082%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22GEOSERVER%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22354%22%20y%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2212%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%2213%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20connectable%3D%220%22%20parent%3D%2210%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%225432%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%22-0.3111%22%20y%3D%22-1%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22FASTAPI%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22124%22%20x%3D%22350%22%20y%3D%22340%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22POSTGIS%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2290%22%20width%3D%22120%22%20x%3D%22560%22%20y%3D%22220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2216%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%226%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2215%22%20connectable%3D%220%22%20parent%3D%2214%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%22port9000%22%20vertex%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20x%3D%220.052%22%20y%3D%22-2%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2216%22%20parent%3D%221%22%20style%3D%22shape%3DumlActor%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3BoutlineConnect%3D0%3B%22%20value%3D%22Actor%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%2230%22%20x%3D%22-60%22%20y%3D%22180%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2217%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%2213%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22730%22%20y%3D%22500%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="300" y="-510" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-58" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FlLjddm5fBcrPZJ_Q3sh-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NODE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(built of react app)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="160" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-66" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#CC0066);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="620" />
+              <mxPoint x="914" y="620" />
+              <mxPoint x="914" y="610" />
+              <mxPoint x="810" y="610" />
+              <mxPoint x="810" y="400" />
+            </Array>
+            <mxPoint x="1160" y="594.96" as="sourcePoint" />
+            <mxPoint x="737" y="399.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-68" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#CC0066);" target="FlLjddm5fBcrPZJ_Q3sh-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="537" />
+              <mxPoint x="1020" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-65" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="GITHUB RUNNER" vertex="1">
+          <mxGeometry height="185" width="185" x="1090" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="FlLjddm5fBcrPZJ_Q3sh-67" edge="1" parent="1" source="FlLjddm5fBcrPZJ_Q3sh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#CC0066);" target="FlLjddm5fBcrPZJ_Q3sh-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="515" />
+              <mxPoint x="1040" y="-110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
